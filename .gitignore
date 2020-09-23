@@ -1,0 +1,8 @@
+*.tmp
+*.DS_Store
+*.Rhistory
+*.pdf
+*.png
+*.jpeg
+*.tif
+*.gif
